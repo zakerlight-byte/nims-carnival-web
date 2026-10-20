@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "NIMS Winter Carnival 2026",
+  "short_name": "NIMS Carnival",
+  "description": "A little winter wonder. Gather, make and share at the NIMS 2026 Winter Carnival.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f1e6",
+  "theme_color": "#f5f1e6",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
